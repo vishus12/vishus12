@@ -26,7 +26,12 @@ Computer hardware enthusiast, embracing the love of the other side of tech. Expl
 
  🌍  I'm based in Nashville
   
- 🖥️  See my portfolio at [My LinkedIn](http://www.linkedin.com/in/vishaltrivedi12/)
+ <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/vishaltrivedi12/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+  
 
 ### Skills
 
